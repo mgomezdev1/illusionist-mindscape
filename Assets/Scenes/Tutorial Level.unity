@@ -3724,6 +3724,10 @@ PrefabInstance:
       propertyPath: wallTime
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 6138033257504442000, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
+      propertyPath: wallTime
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6176112607486072094, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3934,15 +3938,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6795824721320833214, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.1797312
+      value: 0.17973119
       objectReference: {fileID: 0}
     - target: {fileID: 6795824721320833214, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.00000002101362
+      value: 0.000000015056587
       objectReference: {fileID: 0}
     - target: {fileID: 6795824721320833214, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0000000038393235
+      value: -0.0000000027509353
       objectReference: {fileID: 0}
     - target: {fileID: 6814717477952487242, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4123,6 +4127,10 @@ PrefabInstance:
     - target: {fileID: 7834227148275630346, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7946303980234586836, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
+      propertyPath: wallTime
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7968634639051823367, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_LocalScale.y
@@ -4324,6 +4332,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5b44e44913b1e18478589a9031ba27b0, type: 2}
+    - target: {fileID: 8823433410633248234, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
+      propertyPath: wallTime
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8846170766779678813, guid: c565672fb4d5e6a41bc78d96d16ee68e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
