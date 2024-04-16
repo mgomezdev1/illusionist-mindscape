@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78a9c980f50fd1441acb50ef249695d4, type: 3}
+  m_Name: Sleep
+  m_EditorClassIdentifier: 
+  spellSprite: {fileID: 21300000, guid: 7d9ffa790ab557847bfde2cdcb7c8ccc, type: 3}
+  spellName: Song of Slumber
+  spellDescription: Causes enemies in a small area around you to fall asleep for
+    5 seconds.
+  aspects: 0000000001000000030000000000000000000000
+  applyToCasterImmediately: {fileID: 11400000, guid: 42ee9f319ddc16c4c90632e5cf219079, type: 2}
+  casterEffectDuration: 2.5
+  spellEffect: {fileID: 11400000, guid: cad4dad241ec41e45b89e5521b080967, type: 2}
+  effectDuration: 5
+  effectRadius: 4
+  effectDelay: 2.5
+  requiresLoS: 1
+  vfxPrefab: {fileID: 864455763941144152, guid: 8dc67a35a96b20848bd433bfd741d330, type: 3}
+  losBlockingLayers:
+    serializedVersion: 2
+    m_Bits: 128
+  castLocation: 2

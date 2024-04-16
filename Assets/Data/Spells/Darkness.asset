@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc98a76cd42749a41a233a8f3f6aa3db, type: 3}
+  m_Name: Darkness
+  m_EditorClassIdentifier: 
+  applyToCasterImmediately: {fileID: 11400000, guid: 42ee9f319ddc16c4c90632e5cf219079, type: 2}
+  casterEffectDuration: 3
+  spellSprite: {fileID: 21300000, guid: 68387149c9a709d4fa58101536ec2e8e, type: 3}
+  spellName: Trailing Shadows
+  spellDescription: Creates an aura of darkness that slowly inches forward and blinds
+    anyone found within
+  aspects: 0200000003000000000000000300000000000000
+  vfxPrefab: {fileID: 0}
+  castLocation: 2
+  summonPrefab: {fileID: 3150468640497348056, guid: 4e37ad1cfcceab946aeab68e2ccf602e, type: 3}
+  summonDelay: 3
+  summonLocation: 1
